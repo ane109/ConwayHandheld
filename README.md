@@ -12,3 +12,5 @@ The inputs control the following:
 - SparkFun SAMD21 Dev Breakout
 - Adafruit DotStar High Density 8x8 Grid
 - Level shifter and voltage regulator to interface between the DotStar matrix and SAMD21 board
+
+![Gif of a handheld device displaying Conway's Game of Life on an 8x8 LED matrix](https://github.com/ane109/ConwayHandheld/blob/main/Media/ConwayDemo.gif)
